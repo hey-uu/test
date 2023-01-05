@@ -39,7 +39,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-name: CI
+name: CI2
 
 # Controls when the workflow will run
 on:
